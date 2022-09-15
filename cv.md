@@ -57,7 +57,7 @@ Project - [Handle by CustomerTRAX](https://customertrax.com/)
 
 * **Belarusian State University (2016 - 2020)**
   + Faculty of Mechanics and Mathematics
-    - Speciality: Mathematics and Information Technologies (Web-Programming and Internet Technologies
+    - Speciality: Mathematics and Information Technologies (Web-Programming and Internet Technologies)
    
 * There were some js courses, but I don't have information about them; you just only have my word :)
 
