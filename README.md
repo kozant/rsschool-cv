@@ -1,1 +1,1 @@
-https://kozant.github.io/rsschool-cv/cv
+https://kozant.github.io/rsschool-cv/
